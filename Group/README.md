@@ -1,4 +1,4 @@
-# AuE-8230 Spring 2023 Team A - Tinker Twins
+# AuE-8360 Fall 2023 Team A - Tinker Twins
 
 This directory hosts details of Team A for the course AuE-8360 during Fall 2023.
 
