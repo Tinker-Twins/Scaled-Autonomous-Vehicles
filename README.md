@@ -1,4 +1,4 @@
-# Scaled Autonomous Vehicles
+# Scaled Autonomous Vehicles @ CU-ICAR
 
 This repository is a part of course AuE-8360 "Scaled Autonomous Vehicles" at CU-ICAR (Fall 2023).
 
