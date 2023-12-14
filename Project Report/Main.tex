@@ -1,0 +1,69 @@
+\documentclass[12pt, english]{article}
+
+\usepackage{xeCJK}
+\usepackage{Report}
+\usepackage[useregional]{datetime2}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{pifont}
+\usepackage{textcomp}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{balance}
+\usepackage{indentfirst}
+\usepackage{url}
+\usepackage[export]{adjustbox}
+\usepackage{comment}
+\usepackage{color}
+\usepackage{latexsym}
+\usepackage{xurl}
+\usepackage{mathtools}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\def\rot{\rotatebox} % Rotate table cells (e.g., vertical headings)
+
+\DeclareMathOperator*{\argmin}{\arg\!\min} % argmin operator
+\DeclareMathOperator*{\argmax}{\arg\!\max} % argmax operator
+
+\newcommand{\cmark}{\ding{51}} % Check-mark
+\newcommand{\xmark}{\ding{55}} % Cross-mark
+\newcommand{\smark}{\ding{72}} % Star-mark
+
+\graphicspath{{Figures/}}
+\bibliography{References}
+\onehalfspacing
+\geometry{letterpaper, portrait, includeheadfoot=true, hmargin=1in, vmargin=1in}
+
+%\fontsize{font size}{vertsize (usually 1.2x)}\selectfont
+
+\begin{document}
+\renewcommand{\familydefault}{\rmdefault}
+
+\input{Title-Page}
+\input{Header-Footer}
+\pagebreak
+
+% % % % % % % % % % % % % % % % % % % %
+% % % % %  REPORT CONTENT   % % % % % %
+% % % % % % % % % % % % % % % % % % % %
+
+\fontsize{12}{20}\selectfont{
+
+\input{Section-1}
+\pagebreak
+\input{Section-2}
+\pagebreak
+\input{Section-3}
+\pagebreak
+\input{Section-4}
+\pagebreak
+\input{Section-5}
+\pagebreak
+}
+
+\printbibliography
+% \printbibliography[heading=bibintoc, title={References}] % Add references to TOC
+
+\end{document}

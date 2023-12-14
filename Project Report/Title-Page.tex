@@ -1,0 +1,76 @@
+\begin{titlepage}
+    \begin{center}
+    {\fontsize{22}{32}\selectfont \bfseries Autonomy Oriented Digital Twins for Real2Sim2Real Autoware Deployment}
+    \\\vspace{85pt}
+    {\LARGE Technical Report} \\
+    \vspace{20pt}
+    \textbf{Authors} \\
+    {Chinmay Vilas Samak \\
+     Tanmay Vilas Samak}
+    \vspace{50pt} \\
+    Fall 2023
+    \end{center}
+
+    \vspace{80pt}
+
+    \begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Figures/CU-ICAR Logo.png}
+    \end{figure}
+
+    \vspace{10pt}
+
+    \begin{table*}[h]
+    \centering
+    \begin{tabular}{l}
+    \hline
+    \begin{tabular}[c]{p{0.9\textwidth}}{\small This work is an outcome of the course AuE-8360 ``Scaled Autonomous Vehicles'' (Fall 2023) at Clemson University International Center for Automotive Research (CU-ICAR) handled by Dr. Venkat Krovi, Michelin Endowed SmartState Chair Professor of Vehicle Automation at CU-ICAR.}\\ \\ {\small This report was submitted to the Department of Automotive Engineering, CU-ICAR as a part of the course AuE-8360 ``Scaled Autonomous Vehicles''.}\end{tabular} \\ \hline
+    \end{tabular}
+    \end{table*}
+
+    \pagebreak
+
+    \section*{Disclaimer}\label{Disclaimer}
+    \thispagestyle{empty}
+
+    I certify that all the work and writing that I contributed to here is my own and not acquired from external sources. I have cited sources appropriately and paraphrased correctly. I have not shared my writing with other students (for individual assignments) and other students outside my group (for group project), nor have I acquired any written portion of this document from past or present students.
+
+    \begin{flushright}
+    \textbf{Authors}
+    \end{flushright}
+
+    \pagebreak
+
+    \section*{Abstract}\label{Abstract}
+    \thispagestyle{empty}
+
+    Modeling and simulation of autonomous vehicles plays a crucial role in achieving enterprise-scale realization that aligns with technical, business and regulatory requirements. Contemporary trends in digital lifecycle treatment have proven beneficial to support simulation-based-design (SBD) as well as verification and validation (V\&V) of these complex systems. Although, the development of appropriate fidelity simulation models capable of capturing the intricate real-world physics and graphics (real2sim), while enabling real-time interactivity for decision-making, has remained a challenge. Nevertheless, recent advances in AI-based tools and workflows, such as online deep-learning algorithms leveraging live-streaming data sources, offer the tantalizing potential for real-time system-identification and adaptive modeling to simulate vehicle(s), environment(s), as well as their interactions. This transition from static/fixed-parameter “virtual prototypes” to dynamic/adaptable “digital twins” not only improves simulation fidelity and real-time factor, but can also support the development of online adaption/augmentation techniques that can help bridge the gap between simulation and reality (sim2real). In such a milieu, this work focuses on developing autonomy-oriented digital twins of vehicles across different scales and configurations to help support the streamlined development and deployment of Autoware Core/Universe stack, using a unified real2sim2real toolchain. Particularly, the core deliverable for this project was to integrate the Autoware stack with AutoDRIVE Ecosystem to demonstrate end-to-end task of mapping an unknown environment, recording a trajectory within the mapped environment, and autonomously tracking the pre-recorded trajectory to achieve the desired objective. This work discusses the development of vehicle and environment digital twins using AutoDRIVE Ecosystem, along with various application programming interfaces (APIs) and human-machine interfaces (HMIs) to connect with the same, followed by a detailed section on AutoDRIVE-Autoware integration. Furthermore, this study describes the first-ever off-road deployment of the Autoware stack, expanding the operational design domain (ODD) beyond on-road autonomous navigation.\\
+
+    \noindent{\textbf{Keywords:} Autonomous Vehicles, Autoware, Digital Twins, Real2Sim, Sim2Real}
+
+    \pagebreak
+
+    \section*{Acknowledgment}\label{Acknowledgment}
+    \thispagestyle{empty}
+
+    At the commencement of this report, we would like to add a few words of appreciation for all those who have been a part of this project; directly or indirectly.
+    
+    We would like to express our immense gratitude towards Department of Automotive Engineering, Clemson University International Center for Automotive Research (CU-ICAR) for offering this course and for providing us with an excellent atmosphere for working on this project.
+    
+    We would also like to express deep and sincere gratitude to our faculty Dr. Venkat Krovi for his valuable guidance, consistent encouragement and timely help. We are also thankful of our peers in the course, who engaged in thoughtful conversations and discussions, which led to the cross-pollination of ideas.
+    
+    Finally, we are grateful to all the sources of information without which this project would be incomplete. It is due to their efforts and research that our report is more accurate and convincing.
+
+    \begin{flushright}
+    \textbf{Authors}
+    \end{flushright}
+
+    \pagebreak
+
+    \thispagestyle{empty}
+    \tableofcontents
+    \thispagestyle{empty}
+    
+    \pagebreak
+    
+\end{titlepage}
