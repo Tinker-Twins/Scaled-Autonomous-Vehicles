@@ -32,3 +32,5 @@ This repository is a part of course AuE-8360 "Scaled Autonomous Vehicles" at CU-
 
 | <img src="https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/blob/main/Project%20Media/AutoDRIVE-OpenCAV-City-Simulator/Replay-OpenCAV.gif" width="380"> | <img src="https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/blob/main/Project%20Media/AutoDRIVE-OpenCAV-City-Simulator/Replay-Autoware.gif" width="380"> |
 | :-----------------: | :-----------------: |
+
+- [Project Proposal](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Proposal)
