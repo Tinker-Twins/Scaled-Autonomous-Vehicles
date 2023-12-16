@@ -43,6 +43,7 @@ This repository is a part of course AuE-8360 "Scaled Autonomous Vehicles" at CU-
 - [Project Proposal](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Proposal)
 - [Project Updates](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Updates)
 - [Project Media](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Media)
+- [Project GitHub](https://github.com/Tinker-Twins/AutoDRIVE-Autoware)
 - [Project Presentation](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Presentation)
 - [Project Report](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Report)
 
