@@ -34,3 +34,4 @@ This repository is a part of course AuE-8360 "Scaled Autonomous Vehicles" at CU-
 | :-----------------: | :-----------------: |
 
 - [Project Proposal](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Proposal)
+- [Project Updates](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Updates)
