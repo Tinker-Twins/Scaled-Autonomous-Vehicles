@@ -24,9 +24,9 @@ This repository is a part of course AuE-8360 "Scaled Autonomous Vehicles" at CU-
 
 ## Assignments:
 
-- Assignment 1
-- Assignment 2
-- Assignment 3
+- [Assignment 1](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Assignment%201)
+- [Assignment 2](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Assignment%202)
+- [Assignment 3](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Assignment%203)
 
 ## Capstone Project:
 
