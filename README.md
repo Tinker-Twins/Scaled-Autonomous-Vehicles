@@ -38,3 +38,24 @@ This repository is a part of course AuE-8360 "Scaled Autonomous Vehicles" at CU-
 - [Project Media](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Media)
 - [Project Presentation](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Presentation)
 - [Project Report](https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/tree/main/Project%20Report)
+
+## Citation
+
+We encourage you to read and cite the following paper if you use any part of this work for your research:
+
+#### [AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Enhancing Autonomous Driving Research and Education](https://arxiv.org/abs/2212.05241)
+```bibtex
+@article{AutoDRIVE-Ecosystem-2023,
+author = {Samak, Tanmay and Samak, Chinmay and Kandhasamy, Sivanathan and Krovi, Venkat and Xie, Ming},
+title = {AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Autonomous Driving Research &amp; Education},
+journal = {Robotics},
+volume = {12},
+year = {2023},
+number = {3},
+article-number = {77},
+url = {https://www.mdpi.com/2218-6581/12/3/77},
+issn = {2218-6581},
+doi = {10.3390/robotics12030077}
+}
+```
+This work has been published in **MDPI Robotics.** The open-access publication can be found on [MDPI](https://doi.org/10.3390/robotics12030577).
