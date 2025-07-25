@@ -49,7 +49,7 @@ This repository is a part of course AuE-8360 "Scaled Autonomous Vehicles" at CU-
 
 ## YouTube Playlist
 
-[<img src="https://github.com/Tinker-Twins/AutoDRIVE-Autoware/blob/autodrive_galactic/autodrive_autoware/media/YouTube-Playlist.png">](https://youtube.com/playlist?list=PL5Hd4DIMOmEJgpsPYCoLBGNb_91PZVxgA&si=Yf8V6kpmNTrjAp8y)
+[<img src="https://github.com/Tinker-Twins/Scaled-Autonomous-Vehicles/blob/main/Project%20Media/YouTube-Playlist.png">](https://youtube.com/playlist?list=PL5Hd4DIMOmEJgpsPYCoLBGNb_91PZVxgA&si=Yf8V6kpmNTrjAp8y)
 
 Deployment videos pertaining to [AutoDRIVE-Autoware Integration](https://github.com/Tinker-Twins/AutoDRIVE-Autoware) are available within the [Autoware Playlist](https://youtube.com/playlist?list=PL5Hd4DIMOmEJgpsPYCoLBGNb_91PZVxgA&si=UCN1iTwrKbx51Jry) on [AutoDRIVE Ecosystem's YouTube Channel](https://www.youtube.com/@AutoDRIVE-Ecosystem).
 
